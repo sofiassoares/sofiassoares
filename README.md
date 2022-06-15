@@ -14,5 +14,5 @@
   <img align="center" alt="Sof-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sof-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sof-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Sof-pic" height="150" style="border-radius:50px;" src="![gif-git](https://user-images.githubusercontent.com/83610977/173704396-6b35994a-e69b-4847-b55f-3ae7f34ac6b0.gif)">
 </div>
+ ![eu](https://user-images.githubusercontent.com/83610977/173709012-73ca6d16-0e14-453f-bcd5-9466470f39ba.gif)
