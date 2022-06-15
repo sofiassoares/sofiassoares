@@ -11,3 +11,6 @@
   <img align="center" alt="Sof-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sof-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+ ![Snake animation](https://github.com/sofiassoares/sofiassoares/tree/main/.github/workflows)
+
