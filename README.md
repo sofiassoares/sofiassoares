@@ -1,15 +1,16 @@
-### Hi there 😃
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0030b9&reversal=false"/>
 
-- 🌱 I’m currently learning python
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
-☕
- <div style="display: inline_block"><br>
-  <img align="center" height="170" style="border-radius:50px;"
-       src="https://github.com/sofiassoares/sofiassoares/blob/main/eu.gif">
-  <img align="center" alt="Sof-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sof-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sof-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,Seja+Bem-vindo(a)+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/sofiassoares/sofiassoares/blob/output/github-contribution-grid-snake.svg)
+<a href="https://www.linkedin.com/in/sofia-soares-95265925b/">
+    <h3 align="center">
+        Estagiária em Engenharia de Software
+    </h3>
+<p align="center">
+ <a href="https://github.com/sofiassoares">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiassoares&theme=aura"
+    />
+</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0030b9&height=120&section=footer"/>
